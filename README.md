@@ -1,14 +1,8 @@
-<h2 align="left">Bem-vindo, Visitante!</h2>
+<h2 align="left">Hey!</h2>
 
 ###
 
-<p align="left">Eu sou o <strong>João Lira</strong>. Sou desenvolvedor de software com foco em backend, utilizando principalmente a linguagem C#. Gosto de aprender continuamente e estudo com frequência para me aprimorar cada vez mais na área de desenvolvimento.</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolira12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">Eu sou o <strong>João Lira</strong>! Sou estudante de Análise de Dados e Engenharia de Software, em busca de me aprimorar cada vez mais e me tornar um excelente e requisitado profissional no mercado de trabalho.</p>
 
 ###
 
